@@ -1,0 +1,86 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 7 nov 2024, 15:22:47
+    Author     : Abe
+*/
+
+*{
+    font-family:'Lucida Sans';
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #EAD2AC;
+}
+
+.dato{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1rem;
+}
+
+.dato input{
+    height: 1.5rem;
+    border-radius: 0.5rem;
+    border: 1px solid gray;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    border: 2px solid gray;
+    border-radius: 1rem;
+    padding: 0.3rem;
+    margin-bottom: 0.5rem;
+    background-color: #FE938C;
+}
+
+a:hover{
+    background-color: #C65D56;
+}
+
+table{
+    border-radius: 1rem;
+    padding: 1rem;
+}
+
+th{
+    border-radius: 0.3rem;
+    padding: 0.3rem;
+}
+td{
+    border-radius: 0.3rem;
+    padding: 0.3rem;
+}
+
+span{
+    font-weight: 600;
+}
+
+.registrarPokemon form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.tipoPokemon{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.datos{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0.2rem 0rem; 
+    border: 2px solid gray;
+    border-radius: 0.9rem;
+    padding: 0.3rem;
+}

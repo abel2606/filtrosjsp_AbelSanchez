@@ -1,0 +1,6 @@
+filtros\FiltroAutenticacion.class
+org\itson\web\practicaautenticacion_sanchezabel\resources\JakartaEE10Resource.class
+servlets\Login.class
+servlets\RegistrarPokemon.class
+beans\Pokemon.class
+org\itson\web\practicaautenticacion_sanchezabel\JakartaRestConfiguration.class
